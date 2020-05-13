@@ -1,0 +1,4 @@
+6 branches(including master) exist in this project.
+The branch index has been merged into master.
+8, including the initial commit.
+Only one commit belongs to the branch package that does not belong to master.
